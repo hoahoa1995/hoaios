@@ -1,1 +1,8 @@
-
+Origin: HoaBeo Repo
+Label: HoaBeo Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: HoaBeo Jailbreak Repo
