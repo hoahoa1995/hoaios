@@ -1,30 +1,19 @@
 Package: com.hoabeo.hbdevice
-Version: 0.1.0-18+debug
+Version: 0.1.0-24+debug
 Architecture: iphoneos-arm64e
 Maintainer: hoa <hoanguyencongvo@gmail.com>
 Installed-Size: 41212
 Pre-Depends: ellekit | mobilesubstrate
 Depends: ellekit | mobilesubstrate, rootless-compat, libsqlite3-1, sqlite3
-Filename: debs/com.hoabeo.hbdevice_ok1_arm64e.deb
-Size: 20072404
-MD5sum: 3062e8bd644c0abd134232d95f8fa576
-SHA1: 23ea3723d5b72948a6457bb511dd8b023abdc701
-SHA256: 70dc6df78c48e51164d7466fe85067b78c3dc909fcfb366f6758837881c59c63
+Filename: debs/com.hoabeo.hbdevice_ok2_arm64e.deb
+Size: 20073620
+MD5sum: 9925a346c742375e3103dd23a603ebe1
+SHA1: 313ef786770a6a8bacd6b5304735d9f2fc9f40d9
+SHA256: ff1441c87e0b6e61684740aebd2481f9c7e0e9ede6c679197288a314032dff09
 Section: Tweaks
 Priority: optional
 Homepage: https://hoabeoios.online
-Description: Per-app device identity spoofer with CLI control.
- All-in-one bundle: hbdevice CLI, bubble UI, nvfrk 1.5.8 dylibs, SFM profile
- seed with 10080 profiles, and nvfrk prefs seed.
- .
- After install the device auto userspace-reboots in about 60 seconds then
- loads the bubble HB icon in SpringBoard. Tap RESET to rotate device
- identity across Settings About 5 fields and Facebook device list.
- .
- Requires roothide Dopamine 3 on iOS 15.x, iPhone 6s through 8 or SE.
- Network required during install for sqlite3 dependency.
- .
- Bootstrap log at /var/log/hbdevice-bootstrap.log
+Description: Spoof device info.
 Tag: role::hacker, purpose::tweak
 Author: hoa <hoanguyencongvo@gmail.com>
 Depiction: https://hoabeoios.online/depiction/hbdevice.html
