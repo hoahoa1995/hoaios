@@ -5,7 +5,7 @@ Maintainer: hoa <hoanguyencongvo@gmail.com>
 Installed-Size: 41212
 Pre-Depends: ellekit | mobilesubstrate
 Depends: ellekit | mobilesubstrate, rootless-compat, libsqlite3-1, sqlite3
-Filename: debs/com.hoabeo.hbdevice_ok_arm64e.deb
+Filename: debs/com.hoabeo.hbdevice_ok1_arm64e.deb
 Size: 20072404
 MD5sum: 3062e8bd644c0abd134232d95f8fa576
 SHA1: 23ea3723d5b72948a6457bb511dd8b023abdc701
