@@ -26,10 +26,10 @@ Maintainer: hoabeo
 Installed-Size: 15860
 Depends: firmware (>= 15.0), ellekit | mobilesubstrate
 Filename: debs/com.hoabeo.hbtouch_0.1.0_iphoneos-arm64e.deb
-Size: 4364648
-MD5sum: 39b7b43a62defffb7e35cf71f3b733d1
-SHA1: 7ad3000992841bd652c26b0633e99d3538334abe
-SHA256: 71abb4a09ad1e799a53cc257f6a894259d2eb7c6d5e72a16fadfb88d39713d42
+Size: 4366498
+MD5sum: bc335bb3a6e8295f46bfe9df64197f1c
+SHA1: fe883fc13450f46b96251fee13b896caa287a3cd
+SHA256: 06964fc2fa4e7bcc8d642178089307819b56faca44f768b297a257326cf3648e
 Section: Utilities
 Description: AutoTouch-like Lua automation: touch simulation, screen capture, color/image finding, script editor.
 Author: hoabeo
