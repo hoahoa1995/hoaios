@@ -19,3 +19,19 @@ Author: hoa <hoanguyencongvo@gmail.com>
 Depiction: https://hoabeoios.online/depiction/hbdevice.html
 Name: HBDevice
 
+Package: com.hoabeo.hbtouch
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Maintainer: hoabeo
+Installed-Size: 15864
+Depends: firmware (>= 15.0), ellekit | mobilesubstrate
+Filename: debs/com.hoabeo.hbtouch_0.1.0_iphoneos-arm64e.deb
+Size: 4367786
+MD5sum: 599576e9251e0f2be8806ed48fbce41b
+SHA1: f54134c9e8042870fef9e0e2a370520e1f2d50b7
+SHA256: 3463b78ea49b712f5a811b39796a497bcca6339c318a55b26072345aa2ce7c1b
+Section: Utilities
+Description: AutoTouch-like Lua automation: touch simulation, screen capture, color/image finding, script editor.
+Author: hoabeo
+Name: HBTouch
+
